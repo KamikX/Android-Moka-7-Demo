@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Moka 7 Demo</string>
+
+    <!--Notification-->
+    <string name="notification_all_title">Moka 7 Demo</string>
+    <string name="notification_all_init_channel_name">Start</string>
+    <string name="notification_all_service_started">PLC service started</string>
+    <string name="main_read_write_mode">Read / Write Mode</string>
+    <string name="all_read">Read</string>
+    <string name="all_write">Write</string>
+    <string name="all_value">Value:</string>
+    <string name="all_value_empty">---</string>
+    <string name="all_value_no_available">No available</string>
+    <string name="all_connection_params_not_filled">Please enter all connection params.</string>
+    <string name="all_connection_successful">Connection successful</string>
+    <string name="all_connection_unsuccessful">Connection unsuccessful (%s)</string>
+    <string name="all_read_failed">Read failed (%s)</string>
+    <string name="all_write_failed">Write failed (%s)</string>
+    <string name="all_no_connection">Please connect to PLC first.</string>
+    <string name="all_no_value">Please enter value first.</string>
+    <string name="main_edit_text_rack">Rack</string>
+    <string name="main_edit_text_slot">Slot</string>
+    <string name="main_edit_text_ip_address">IP address</string>
+    <string name="main_rg_type_pg">PG</string>
+    <string name="main_rg_type_op">OP</string>
+    <string name="main_rg_type_s7_basic">S7 BASIC</string>
+    <string name="main_button_connect">Connect</string>
+    <string name="main_button_disconnect">Disconnect</string>
+    <string name="main_edit_text_db_block">DB Block</string>
+    <string name="main_edit_text_db_block_start_position">Start byte</string>
+    <string name="main_edit_text_db_block_end_position">Byte count</string>
+    <string name="main_edit_text_db_block_boolean_bit">Bit</string>
+
+
+</resources>
